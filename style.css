@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: sans-serif;
     display: flex;
-    flex-direction: column;
+    flex-direction: row-reverse;
 }
 
 .header {
@@ -64,7 +64,7 @@ body {
 }
 
 select {
-    width: 90px;
+    width: 0px;
 }
 
 .btn_nav:hover {
